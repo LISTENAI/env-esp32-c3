@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@binary/gcc-riscv32-esp-elf@^1.0.0-esp-2021r2-8.4.0":
-  version "1.0.0-esp-2021r2-8.4.0"
-  resolved "https://registry-lpm.listenai.com/@binary/gcc-riscv32-esp-elf/download/@binary/gcc-riscv32-esp-elf-1.0.0-esp-2021r2-8.4.0.tgz#979fb289ef17869104d7057fc0a77ff77b6ae606"
-  integrity sha1-l5+yie8XhpEE1wV/wKd/93tq5gY=
+"@binary/gcc-riscv32-esp-elf@^1.0.1-esp-2021r2-8.4.0":
+  version "1.0.1-esp-2021r2-8.4.0"
+  resolved "https://registry-lpm.listenai.com/@binary/gcc-riscv32-esp-elf/download/@binary/gcc-riscv32-esp-elf-1.0.1-esp-2021r2-8.4.0.tgz#a1769eb608e1d66dd925f09bfad37ef326d8ac7a"
+  integrity sha1-oXaetgjh1m3ZJfCb+tN+8ybYrHo=
   dependencies:
     "@binary/type" "^1.0.3"
     "@xingrz/download2" "^9.0.0-alpha.2"
