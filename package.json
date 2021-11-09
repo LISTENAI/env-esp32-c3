@@ -8,7 +8,8 @@
   },
   "scripts": {
     "build": "tsc -p .",
-    "prepublishOnly": "rm -rf lib && npm run build"
+    "prepublishOnly": "rm -rf lib && npm run build",
+    "postinstall": "lisa zep west update"
   },
   "author": "xychen <xychen@listenai.com>",
   "maintainers": [
