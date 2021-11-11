@@ -1,6 +1,6 @@
 {
   "name": "@lisa-env/esp32-c3",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "esp32-c3",
   "main": "lib",
   "publishConfig": {
@@ -16,6 +16,9 @@
     "xychen <xychen@listenai.com"
   ],
   "license": "UNLICENSED",
+  "files":[
+    "lib"
+  ],
   "dependencies": {
     "@binary/gcc-riscv32-esp-elf": "^1.0.1-esp-2021r2-8.4.0",
     "@lisa-env/type": "^1.1.0"
