@@ -13,7 +13,8 @@
   },
   "author": "xychen <xychen@listenai.com>",
   "maintainers": [
-    "xychen <xychen@listenai.com"
+    "xychen <xychen@listenai.com>",
+    "zbzhao <zbzhao@listenai.com>"
   ],
   "license": "UNLICENSED",
   "files":[
