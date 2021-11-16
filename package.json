@@ -8,8 +8,7 @@
   },
   "scripts": {
     "build": "tsc -p .",
-    "prepublishOnly": "del-cli lib && npm run build",
-    "postinstall": "lisa zep west espressif update"
+    "prepublishOnly": "del-cli lib && npm run build"
   },
   "author": "xychen <xychen@listenai.com>",
   "maintainers": [
